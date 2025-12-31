@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am an undergraduate Computer Science student
 
 
